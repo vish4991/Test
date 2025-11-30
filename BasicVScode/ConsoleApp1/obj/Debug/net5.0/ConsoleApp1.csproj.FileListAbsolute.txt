@@ -1,0 +1,16 @@
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+e:\gitone\Test\BasicVScode\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+e:\gitone\Test\BasicVScode\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
